@@ -1,0 +1,29 @@
+name: mod6envt
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel
+  - pip
+  - pip:
+    - python-telegram-bot
+    - gradio
+    - huggingface_hub
+    - transformers
+    - accelerate
+    - torch
+    - torchvision
+    - torchaudio
+    - pandas
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - seaborn
+    - Pillow
+    - librosa
+    - soundfile
+    - datasets
+    - python-dotenv
+    - google-generativeai
+    - groq
