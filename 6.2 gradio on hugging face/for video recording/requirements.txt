@@ -1,0 +1,8 @@
+gradio
+groq
+gunicorn
+flask
+pytz
+sqlite3
+scikit-learn
+joblib
